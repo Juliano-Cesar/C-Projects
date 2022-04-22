@@ -4,7 +4,7 @@ int main()
 {
     int celsius, num1, num2;
     
-    printf("Digite o número: ");
+    printf("Digite o nÃºmero: ");
     scanf("%d", &celsius);
     
     num1= (1.8 * celsius)+32;
